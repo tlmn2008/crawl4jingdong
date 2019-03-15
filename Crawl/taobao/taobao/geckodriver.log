@@ -1,0 +1,1149 @@
+1551765591048	geckodriver	INFO	geckodriver 0.21.0
+1551765591235	geckodriver	INFO	Listening on 127.0.0.1:65279
+1551765594314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.MJXFbYuZAUsS"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+1551765601963	Marionette	INFO	Listening on port 65291
+1551765601968	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 25092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 20556, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 20556, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 20556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 20556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+bGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1551766248589	geckodriver	INFO	geckodriver 0.21.0
+1551766248750	geckodriver	INFO	Listening on 127.0.0.1:49838
+1551766251811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.ksRchaQLeZAS"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+1551766254969	Marionette	INFO	Listening on port 49849
+1551766255152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1551766986129	geckodriver	INFO	geckodriver 0.21.0
+1551766986295	geckodriver	INFO	Listening on 127.0.0.1:50712
+1551766989431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.ffqJBZbPc5C3"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+1551766992078	Marionette	INFO	Listening on port 50723
+1551766992419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1551767493555	geckodriver	INFO	geckodriver 0.21.0
+1551767493729	geckodriver	INFO	Listening on 127.0.0.1:51957
+1551767496745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.sIApqdFS4fQW"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+1551767501578	Marionette	INFO	Listening on port 51970
+1551767501660	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1551767631648	geckodriver	INFO	geckodriver 0.21.0
+1551767631847	geckodriver	INFO	Listening on 127.0.0.1:52183
+1551767634789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.wUsgZJtZnObC"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+1551767638022	Marionette	INFO	Listening on port 52195
+1551767638301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 20772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1551778987006	geckodriver	INFO	geckodriver 0.21.0
+1551778987178	geckodriver	INFO	Listening on 127.0.0.1:54630
+1551778990265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.fkBysIXKrISk"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17448, Chrome_Chil[Parent 22076, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1551779009586	Marionette	INFO	Listening on port 54641
+1551779010070	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552531571397	geckodriver	INFO	geckodriver 0.21.0
+1552531571662	geckodriver	INFO	Listening on 127.0.0.1:55491
+1552531574763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.3PRtBspicHT5"
+*** You are running in headless mode.
+1552531678736	geckodriver	INFO	geckodriver 0.21.0
+1552531678974	geckodriver	INFO	Listening on 127.0.0.1:55802
+1552531682142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.l7WgHxDPpKBC"
+*** You are running in headless mode.
+1552531683544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552531683545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552531683681	Marionette	TRACE	Received observer notification profile-after-change
+1552531683927	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552531683971	Marionette	TRACE	Received observer notification command-line-startup
+1552531683971	Marionette	TRACE	Received observer notification nsPref:changed
+1552531683971	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552531684090	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552531686883	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552531686883	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552531687040	Marionette	TRACE	All scripts recorded.
+1552531687041	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552531687041	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552531687041	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552531687041	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552531687041	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552531687041	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552531687042	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552531687042	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552531687042	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552531687042	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552531687042	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552531687042	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552531687042	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552531687042	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552531687042	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552531687043	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552531687043	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552531687043	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552531687077	Marionette	INFO	Listening on port 65399
+1552531687077	Marionette	DEBUG	Remote service is active
+1552531687241	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:65421
+1552531687242	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552531687242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552531687265	Marionette	TRACE	[6442450945] Frame script loaded
+1552531687268	Marionette	TRACE	[6442450945] Frame script registered
+1552531687269	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"8f44ad9d-c40c-47fc-be30-2a12018ada00","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552531689807	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552531689812	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552531690688	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552531690689	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552531691212	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552531692652	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531692653	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552531692658	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552531692661	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552531694663	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531694767	Marionette	DEBUG	0 <- [1,4,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"," ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531695269	Marionette	DEBUG	0 -> [0,5,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531695272	Marionette	DEBUG	0 <- [1,5,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"," ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531695774	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531695776	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"," ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531696278	Marionette	DEBUG	0 -> [0,7,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531696281	Marionette	DEBUG	0 <- [1,7,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"," ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531696783	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531696784	Marionette	DEBUG	0 <- [1,8,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"," ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531697286	Marionette	DEBUG	0 -> [0,9,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531697288	Marionette	DEBUG	0 <- [1,9,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"," ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531697790	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531697792	Marionette	DEBUG	0 <- [1,10,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531698295	Marionette	DEBUG	0 -> [0,11,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531698298	Marionette	DEBUG	0 <- [1,11,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531698800	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531698803	Marionette	DEBUG	0 <- [1,12,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531699305	Marionette	DEBUG	0 -> [0,13,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531699306	Marionette	DEBUG	0 <- [1,13,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531699808	Marionette	DEBUG	0 -> [0,14,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531699810	Marionette	DEBUG	0 <- [1,14,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531700313	Marionette	DEBUG	0 -> [0,15,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531700315	Marionette	DEBUG	0 <- [1,15,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531700816	Marionette	DEBUG	0 -> [0,16,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531700817	Marionette	DEBUG	0 <- [1,16,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531701319	Marionette	DEBUG	0 -> [0,17,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531701320	Marionette	DEBUG	0 <- [1,17,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531701821	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531701822	Marionette	DEBUG	0 <- [1,18,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531702324	Marionette	DEBUG	0 -> [0,19,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531702328	Marionette	DEBUG	0 <- [1,19,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531702831	Marionette	DEBUG	0 -> [0,20,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531702834	Marionette	DEBUG	0 <- [1,20,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531703336	Marionette	DEBUG	0 -> [0,21,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531703338	Marionette	DEBUG	0 <- [1,21,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531703839	Marionette	DEBUG	0 -> [0,22,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531703841	Marionette	DEBUG	0 <- [1,22,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531704343	Marionette	DEBUG	0 -> [0,23,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531704345	Marionette	DEBUG	0 <- [1,23,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531704846	Marionette	DEBUG	0 -> [0,24,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531704848	Marionette	DEBUG	0 <- [1,24,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531705350	Marionette	DEBUG	0 -> [0,25,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531705352	Marionette	DEBUG	0 <- [1,25,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531705854	Marionette	DEBUG	0 -> [0,26,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531705855	Marionette	DEBUG	0 <- [1,26,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531706357	Marionette	DEBUG	0 -> [0,27,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531706359	Marionette	DEBUG	0 <- [1,27,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531706861	Marionette	DEBUG	0 -> [0,28,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531706862	Marionette	DEBUG	0 <- [1,28,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531707364	Marionette	DEBUG	0 -> [0,29,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531707365	Marionette	DEBUG	0 <- [1,29,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531707868	Marionette	DEBUG	0 -> [0,30,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531707869	Marionette	DEBUG	0 <- [1,30,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552531708372	Marionette	DEBUG	0 -> [0,31,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531708373	Marionette	DEBUG	0 <- [1,31,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531708875	Marionette	DEBUG	0 -> [0,32,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531708882	Marionette	DEBUG	0 <- [1,32,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531709384	Marionette	DEBUG	0 -> [0,33,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531709386	Marionette	DEBUG	0 <- [1,33,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531709927	Marionette	DEBUG	0 -> [0,34,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552531709931	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531710114	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531710114	Marionette	TRACE	[6442450945] Received DOM event unload for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531710278	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531710281	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552531711653	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531711654	Marionette	DEBUG	0 <- [1,34,null,{"value":null}]
+1552531711659	Marionette	DEBUG	0 -> [0,35,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552531711662	Marionette	DEBUG	0 <- [1,35,null,{"value":null}]
+1552531713664	Marionette	DEBUG	0 -> [0,36,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531713666	Marionette	DEBUG	0 <- [1,36,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531714023	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552531714168	Marionette	DEBUG	0 -> [0,37,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531714169	Marionette	DEBUG	0 <- [1,37,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531714671	Marionette	DEBUG	0 -> [0,38,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531714672	Marionette	DEBUG	0 <- [1,38,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531715175	Marionette	DEBUG	0 -> [0,39,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531715176	Marionette	DEBUG	0 <- [1,39,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531715679	Marionette	DEBUG	0 -> [0,40,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531715680	Marionette	DEBUG	0 <- [1,40,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531716181	Marionette	DEBUG	0 -> [0,41,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531716182	Marionette	DEBUG	0 <- [1,41,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531716685	Marionette	DEBUG	0 -> [0,42,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531716686	Marionette	DEBUG	0 <- [1,42,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531717188	Marionette	DEBUG	0 -> [0,43,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531717190	Marionette	DEBUG	0 <- [1,43,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531717691	Marionette	DEBUG	0 -> [0,44,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531717693	Marionette	DEBUG	0 <- [1,44,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531718196	Marionette	DEBUG	0 -> [0,45,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531718197	Marionette	DEBUG	0 <- [1,45,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531718699	Marionette	DEBUG	0 -> [0,46,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531718700	Marionette	DEBUG	0 <- [1,46,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531719202	Marionette	DEBUG	0 -> [0,47,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531719204	Marionette	DEBUG	0 <- [1,47,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531719706	Marionette	DEBUG	0 -> [0,48,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531719707	Marionette	DEBUG	0 <- [1,48,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531720209	Marionette	DEBUG	0 -> [0,49,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531720211	Marionette	DEBUG	0 <- [1,49,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531720712	Marionette	DEBUG	0 -> [0,50,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531720714	Marionette	DEBUG	0 <- [1,50,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531721216	Marionette	DEBUG	0 -> [0,51,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531721217	Marionette	DEBUG	0 <- [1,51,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531721719	Marionette	DEBUG	0 -> [0,52,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531721722	Marionette	DEBUG	0 <- [1,52,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531722223	Marionette	DEBUG	0 -> [0,53,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531722224	Marionette	DEBUG	0 <- [1,53,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531722727	Marionette	DEBUG	0 -> [0,54,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531722728	Marionette	DEBUG	0 <- [1,54,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531723230	Marionette	DEBUG	0 -> [0,55,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531723231	Marionette	DEBUG	0 <- [1,55,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531723733	Marionette	DEBUG	0 -> [0,56,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531723735	Marionette	DEBUG	0 <- [1,56,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531724238	Marionette	DEBUG	0 -> [0,57,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531724239	Marionette	DEBUG	0 <- [1,57,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531724741	Marionette	DEBUG	0 -> [0,58,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531724743	Marionette	DEBUG	0 <- [1,58,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531725244	Marionette	DEBUG	0 -> [0,59,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531725246	Marionette	DEBUG	0 <- [1,59,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531725748	Marionette	DEBUG	0 -> [0,60,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531725749	Marionette	DEBUG	0 <- [1,60,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531726251	Marionette	DEBUG	0 -> [0,61,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531726252	Marionette	DEBUG	0 <- [1,61,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531726754	Marionette	DEBUG	0 -> [0,62,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531726756	Marionette	DEBUG	0 <- [1,62,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531727258	Marionette	DEBUG	0 -> [0,63,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531727259	Marionette	DEBUG	0 <- [1,63,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531727761	Marionette	DEBUG	0 -> [0,64,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531727762	Marionette	DEBUG	0 <- [1,64,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531728263	Marionette	DEBUG	0 -> [0,65,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531728267	Marionette	DEBUG	0 <- [1,65,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531728770	Marionette	DEBUG	0 -> [0,66,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552531728775	Marionette	TRACE	[6442450945] Received DOM event beforeunload for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531728946	Marionette	TRACE	[6442450945] Received DOM event pagehide for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531728946	Marionette	TRACE	[6442450945] Received DOM event unload for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531729057	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531729091	Marionette	TRACE	[6442450945] Received observer notification outer-window-destroyed
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552531730451	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552531730452	Marionette	DEBUG	0 <- [1,66,null,{"value":null}]
+1552531730455	Marionette	DEBUG	0 -> [0,67,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552531730457	Marionette	DEBUG	0 <- [1,67,null,{"value":null}]
+1552531732459	Marionette	DEBUG	0 -> [0,68,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531732461	Marionette	DEBUG	0 <- [1,68,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531732963	Marionette	DEBUG	0 -> [0,69,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531732964	Marionette	DEBUG	0 <- [1,69,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531733466	Marionette	DEBUG	0 -> [0,70,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531733467	Marionette	DEBUG	0 <- [1,70,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531733970	Marionette	DEBUG	0 -> [0,71,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531733971	Marionette	DEBUG	0 <- [1,71,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531734473	Marionette	DEBUG	0 -> [0,72,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531734474	Marionette	DEBUG	0 <- [1,72,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531734976	Marionette	DEBUG	0 -> [0,73,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531734977	Marionette	DEBUG	0 <- [1,73,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531735479	Marionette	DEBUG	0 -> [0,74,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531735481	Marionette	DEBUG	0 <- [1,74,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531735983	Marionette	DEBUG	0 -> [0,75,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531735984	Marionette	DEBUG	0 <- [1,75,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531736486	Marionette	DEBUG	0 -> [0,76,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531736489	Marionette	DEBUG	0 <- [1,76,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531736991	Marionette	DEBUG	0 -> [0,77,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531736993	Marionette	DEBUG	0 <- [1,77,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531737495	Marionette	DEBUG	0 -> [0,78,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531737496	Marionette	DEBUG	0 <- [1,78,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531737998	Marionette	DEBUG	0 -> [0,79,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531738000	Marionette	DEBUG	0 <- [1,79,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531738501	Marionette	DEBUG	0 -> [0,80,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531738503	Marionette	DEBUG	0 <- [1,80,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531739005	Marionette	DEBUG	0 -> [0,81,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531739006	Marionette	DEBUG	0 <- [1,81,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531739508	Marionette	DEBUG	0 -> [0,82,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531739509	Marionette	DEBUG	0 <- [1,82,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531740012	Marionette	DEBUG	0 -> [0,83,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531740013	Marionette	DEBUG	0 <- [1,83,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531740515	Marionette	DEBUG	0 -> [0,84,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531740516	Marionette	DEBUG	0 <- [1,84,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531741018	Marionette	DEBUG	0 -> [0,85,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531741022	Marionette	DEBUG	0 <- [1,85,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531741524	Marionette	DEBUG	0 -> [0,86,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531741525	Marionette	DEBUG	0 <- [1,86,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531742027	Marionette	DEBUG	0 -> [0,87,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531742028	Marionette	DEBUG	0 <- [1,87,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552531742530	Marionette	DEBUG	0 -> [0,88,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]"}]
+1552531742532	Marionette	DEBUG	0 <- [1,88,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/span[3]", ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532699273	geckodriver	INFO	geckodriver 0.21.0
+1552532699489	geckodriver	INFO	Listening on 127.0.0.1:50540
+1552532702489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.RUu9YMn1e4nf"
+*** You are running in headless mode.
+1552532703179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552532703179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552532703296	Marionette	TRACE	Received observer notification profile-after-change
+1552532703514	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552532703552	Marionette	TRACE	Received observer notification command-line-startup
+1552532703552	Marionette	TRACE	Received observer notification nsPref:changed
+1552532703552	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552532703662	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552532706430	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552532706431	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552532706570	Marionette	TRACE	All scripts recorded.
+1552532706570	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552532706570	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552532706570	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552532706570	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552532706570	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552532706571	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552532706571	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552532706571	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552532706571	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552532706572	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552532706572	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552532706572	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552532706572	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552532706572	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552532706572	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552532706572	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552532706572	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552532706572	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552532706619	Marionette	INFO	Listening on port 50554
+1552532706620	Marionette	DEBUG	Remote service is active
+1552532706981	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50569
+1552532706982	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552532706983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552532707003	Marionette	TRACE	[6442450945] Frame script loaded
+1552532707010	Marionette	TRACE	[6442450945] Frame script registered
+1552532707011	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"3ab7156d-80a5-434e-8d5e-cc36a7bcf88e","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552532707063	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552532707069	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552532708802	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552532708802	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552532709196	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552532710906	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552532710907	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552532710912	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552532710915	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552532712918	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532712921	Marionette	DEBUG	0 <- [1,4,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532713423	Marionette	DEBUG	0 -> [0,5,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532713426	Marionette	DEBUG	0 <- [1,5,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532713928	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532713930	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532714433	Marionette	DEBUG	0 -> [0,7,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532714434	Marionette	DEBUG	0 <- [1,7,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532714937	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532714938	Marionette	DEBUG	0 <- [1,8,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532715442	Marionette	DEBUG	0 -> [0,9,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532715444	Marionette	DEBUG	0 <- [1,9,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532715946	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532715948	Marionette	DEBUG	0 <- [1,10,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDri ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532716450	Marionette	DEBUG	0 -> [0,11,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532716453	Marionette	DEBUG	0 <- [1,11,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDri ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532716955	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532716957	Marionette	DEBUG	0 <- [1,12,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDri ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532717460	Marionette	DEBUG	0 -> [0,13,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532717461	Marionette	DEBUG	0 <- [1,13,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDri ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552532717963	Marionette	DEBUG	0 -> [0,14,"WebDriver:FindElement",{"using":"xpath","value":".//input[class=\"input J_Input\"]"}]
+1552532717965	Marionette	DEBUG	0 <- [1,14,{"error":"no such element","message":"Unable to locate element: .//input[class=\"input J_Input\"]","stacktrace":"WebDri ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533227555	geckodriver	INFO	geckodriver 0.21.0
+1552533227772	geckodriver	INFO	Listening on 127.0.0.1:51312
+1552533230875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.bJ6hJZQOupbW"
+*** You are running in headless mode.
+1552533231698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552533231698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552533231845	Marionette	TRACE	Received observer notification profile-after-change
+1552533232060	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552533232092	Marionette	TRACE	Received observer notification command-line-startup
+1552533232093	Marionette	TRACE	Received observer notification nsPref:changed
+1552533232093	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552533232208	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552533234515	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552533234515	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552533234764	Marionette	TRACE	All scripts recorded.
+1552533234764	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552533234764	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552533234764	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552533234764	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552533234764	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552533234765	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552533234765	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552533234765	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552533234765	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552533234765	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552533234765	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552533234765	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552533234766	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552533234766	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552533234766	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552533234766	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552533234766	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552533234766	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552533234796	Marionette	INFO	Listening on port 51326
+1552533234796	Marionette	DEBUG	Remote service is active
+1552533234945	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51343
+1552533234947	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552533234948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552533234988	Marionette	TRACE	[6442450945] Frame script loaded
+1552533234989	Marionette	TRACE	[6442450945] Frame script registered
+1552533234990	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"c7ecea73-2d45-4b62-a4cd-a32ddeb14f23","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552533235035	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552533235046	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552533236510	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552533236511	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552533236937	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552533238506	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552533238507	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552533238513	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552533238517	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552533240520	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533240523	Marionette	DEBUG	0 <- [1,4,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533241025	Marionette	DEBUG	0 -> [0,5,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533241028	Marionette	DEBUG	0 <- [1,5,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533241530	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533241532	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533242035	Marionette	DEBUG	0 -> [0,7,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533242036	Marionette	DEBUG	0 <- [1,7,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533242539	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533242540	Marionette	DEBUG	0 <- [1,8,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533243043	Marionette	DEBUG	0 -> [0,9,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533243045	Marionette	DEBUG	0 <- [1,9,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533243547	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533243549	Marionette	DEBUG	0 <- [1,10,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533244051	Marionette	DEBUG	0 -> [0,11,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533244052	Marionette	DEBUG	0 <- [1,11,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533244554	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533244555	Marionette	DEBUG	0 <- [1,12,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533245058	Marionette	DEBUG	0 -> [0,13,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533245060	Marionette	DEBUG	0 <- [1,13,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533245562	Marionette	DEBUG	0 -> [0,14,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533245564	Marionette	DEBUG	0 <- [1,14,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533246067	Marionette	DEBUG	0 -> [0,15,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533246069	Marionette	DEBUG	0 <- [1,15,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533246570	Marionette	DEBUG	0 -> [0,16,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533246572	Marionette	DEBUG	0 <- [1,16,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533247074	Marionette	DEBUG	0 -> [0,17,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533247075	Marionette	DEBUG	0 <- [1,17,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533247578	Marionette	DEBUG	0 -> [0,18,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533247580	Marionette	DEBUG	0 <- [1,18,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533248082	Marionette	DEBUG	0 -> [0,19,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533248083	Marionette	DEBUG	0 <- [1,19,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533420835	geckodriver	INFO	geckodriver 0.21.0
+1552533421097	geckodriver	INFO	Listening on 127.0.0.1:51641
+1552533424104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.5pBHXMylsQuD"
+*** You are running in headless mode.
+1552533424709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552533424709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552533424845	Marionette	TRACE	Received observer notification profile-after-change
+1552533425126	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552533425175	Marionette	TRACE	Received observer notification command-line-startup
+1552533425175	Marionette	TRACE	Received observer notification nsPref:changed
+1552533425175	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552533425294	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552533427888	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552533427888	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552533428164	Marionette	TRACE	All scripts recorded.
+1552533428164	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552533428164	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552533428164	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552533428164	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552533428165	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552533428165	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552533428165	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552533428165	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552533428165	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552533428166	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552533428166	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552533428166	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552533428166	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552533428166	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552533428166	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552533428166	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552533428166	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552533428166	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552533428205	Marionette	INFO	Listening on port 51652
+1552533428205	Marionette	DEBUG	Remote service is active
+1552533428354	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51669
+1552533428355	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552533428355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552533428396	Marionette	TRACE	[6442450945] Frame script loaded
+1552533428396	Marionette	TRACE	[6442450945] Frame script registered
+1552533428397	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"e7b14f2d-41a7-41bb-a60d-abc1c7d118dc","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552533428443	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552533428449	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552533646595	geckodriver	INFO	geckodriver 0.21.0
+1552533646843	geckodriver	INFO	Listening on 127.0.0.1:52068
+1552533649842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.Nh0FHKhgDaBZ"
+*** You are running in headless mode.
+1552533650404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552533650405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552533650587	Marionette	TRACE	Received observer notification profile-after-change
+1552533650801	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552533650842	Marionette	TRACE	Received observer notification command-line-startup
+1552533650842	Marionette	TRACE	Received observer notification nsPref:changed
+1552533650842	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552533650941	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552533653479	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552533653479	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552533653559	Marionette	TRACE	All scripts recorded.
+1552533653560	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552533653560	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552533653560	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552533653560	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552533653560	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552533653560	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552533653561	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552533653561	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552533653561	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552533653561	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552533653561	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552533653561	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552533653561	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552533653562	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552533653562	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552533653562	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552533653562	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552533653562	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552533653595	Marionette	INFO	Listening on port 52083
+1552533653595	Marionette	DEBUG	Remote service is active
+1552533654139	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52104
+1552533654140	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552533654140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552533654160	Marionette	TRACE	[6442450945] Frame script loaded
+1552533654161	Marionette	TRACE	[6442450945] Frame script registered
+1552533654162	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"d5ea8ec5-0c8c-4738-876c-3b2767657e4d","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552533654210	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552533654216	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552533655316	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552533655317	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552533655949	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552533657595	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552533657596	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552533657600	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552533657602	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552533659605	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533659608	Marionette	DEBUG	0 <- [1,4,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533660110	Marionette	DEBUG	0 -> [0,5,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533660113	Marionette	DEBUG	0 <- [1,5,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533660615	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533660617	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533661120	Marionette	DEBUG	0 -> [0,7,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533661121	Marionette	DEBUG	0 <- [1,7,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533661623	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533661624	Marionette	DEBUG	0 <- [1,8,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533662127	Marionette	DEBUG	0 -> [0,9,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533662129	Marionette	DEBUG	0 <- [1,9,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533662632	Marionette	DEBUG	0 -> [0,10,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533662633	Marionette	DEBUG	0 <- [1,10,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533663136	Marionette	DEBUG	0 -> [0,11,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533663138	Marionette	DEBUG	0 <- [1,11,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552533663640	Marionette	DEBUG	0 -> [0,12,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552533663642	Marionette	DEBUG	0 <- [1,12,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDriv ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534629183	geckodriver	INFO	geckodriver 0.21.0
+1552534629420	geckodriver	INFO	Listening on 127.0.0.1:53507
+1552534632478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.enrtwO4iEsto"
+*** You are running in headless mode.
+1552534633036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552534633037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552534633167	Marionette	TRACE	Received observer notification profile-after-change
+1552534633359	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552534633397	Marionette	TRACE	Received observer notification command-line-startup
+1552534633397	Marionette	TRACE	Received observer notification nsPref:changed
+1552534633397	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552534633544	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552534636090	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552534636090	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552534636252	Marionette	TRACE	All scripts recorded.
+1552534636252	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552534636252	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552534636252	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552534636253	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552534636253	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552534636253	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552534636254	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552534636254	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552534636254	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552534636254	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552534636254	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552534636254	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552534636255	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552534636255	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552534636255	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552534636255	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552534636255	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552534636255	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552534636306	Marionette	INFO	Listening on port 53521
+1552534636306	Marionette	DEBUG	Remote service is active
+1552534636603	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:53536
+1552534636604	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552534636605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552534636626	Marionette	TRACE	[6442450945] Frame script loaded
+1552534636629	Marionette	TRACE	[6442450945] Frame script registered
+1552534636630	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"01df8dfe-84b6-4f85-a469-30019ce4933c","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552534636673	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552534636678	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552534638925	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552534638926	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552534639407	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552534640544	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552534640546	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552534640551	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552534640579	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552534642582	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534642584	Marionette	DEBUG	0 <- [1,4,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534643087	Marionette	DEBUG	0 -> [0,5,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534643089	Marionette	DEBUG	0 <- [1,5,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534643592	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534643594	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534644096	Marionette	DEBUG	0 -> [0,7,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534644099	Marionette	DEBUG	0 <- [1,7,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534644600	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534644602	Marionette	DEBUG	0 <- [1,8,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534963243	geckodriver	INFO	geckodriver 0.21.0
+1552534963521	geckodriver	INFO	Listening on 127.0.0.1:54069
+1552534966492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.pfZWWkihTg9r"
+*** You are running in headless mode.
+1552534967029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552534967029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552534967155	Marionette	TRACE	Received observer notification profile-after-change
+1552534967371	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552534967408	Marionette	TRACE	Received observer notification command-line-startup
+1552534967408	Marionette	TRACE	Received observer notification nsPref:changed
+1552534967408	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552534967522	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552534970108	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552534970108	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552534970224	Marionette	TRACE	All scripts recorded.
+1552534970224	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552534970224	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552534970224	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552534970224	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552534970224	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552534970225	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552534970225	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552534970225	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552534970225	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552534970225	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552534970225	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552534970225	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552534970225	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552534970226	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552534970226	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552534970226	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552534970226	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552534970226	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552534970265	Marionette	INFO	Listening on port 54081
+1552534970265	Marionette	DEBUG	Remote service is active
+1552534970839	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:54103
+1552534970840	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552534970840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552534970863	Marionette	TRACE	[6442450945] Frame script loaded
+1552534970864	Marionette	TRACE	[6442450945] Frame script registered
+1552534970865	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"993d56e8-8ae3-4495-888e-892f2bf74e92","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552534970911	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552534970916	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552534972516	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552534972517	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552534972916	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552534974565	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552534974566	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552534974569	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552534974576	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552534976579	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534976582	Marionette	DEBUG	0 <- [1,4,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534977085	Marionette	DEBUG	0 -> [0,5,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534977087	Marionette	DEBUG	0 <- [1,5,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534977589	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534977590	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534978092	Marionette	DEBUG	0 -> [0,7,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534978094	Marionette	DEBUG	0 <- [1,7,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534978596	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534978598	Marionette	DEBUG	0 <- [1,8,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552534979101	Marionette	DEBUG	0 -> [0,9,"WebDriver:FindElement",{"using":"xpath","value":"//input[class=\"input J_Input\"]"}]
+1552534979103	Marionette	DEBUG	0 <- [1,9,{"error":"no such element","message":"Unable to locate element: //input[class=\"input J_Input\"]","stacktrace":"WebDrive ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552535058719	geckodriver	INFO	geckodriver 0.21.0
+1552535058990	geckodriver	INFO	Listening on 127.0.0.1:54258
+1552535061949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.SLii1UQekoFU"
+*** You are running in headless mode.
+1552535062489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552535062489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552535062616	Marionette	TRACE	Received observer notification profile-after-change
+1552535062825	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552535062865	Marionette	TRACE	Received observer notification command-line-startup
+1552535062865	Marionette	TRACE	Received observer notification nsPref:changed
+1552535062865	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552535062976	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552535065382	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552535065383	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552535065541	Marionette	TRACE	All scripts recorded.
+1552535065541	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552535065541	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552535065541	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552535065541	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552535065541	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552535065542	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552535065542	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552535065542	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552535065542	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552535065542	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552535065542	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552535065542	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552535065543	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552535065543	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552535065543	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552535065543	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552535065543	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552535065543	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552535065582	Marionette	INFO	Listening on port 54269
+1552535065582	Marionette	DEBUG	Remote service is active
+1552535065903	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:54285
+1552535065905	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552535065905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552535065926	Marionette	TRACE	[6442450945] Frame script loaded
+1552535065926	Marionette	TRACE	[6442450945] Frame script registered
+1552535065928	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"01eb039a-afde-40c2-a27e-4b1f5a69dfe4","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552535065970	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552535065977	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535067227	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535067228	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535067431	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552535068742	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552535068743	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552535068746	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552535068749	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552535070751	Marionette	DEBUG	0 -> [0,4,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input"}]
+1552535070754	Marionette	DEBUG	0 <- [1,4,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input","st ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552535071256	Marionette	DEBUG	0 -> [0,5,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input"}]
+1552535071258	Marionette	DEBUG	0 <- [1,5,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input","st ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552535071762	Marionette	DEBUG	0 -> [0,6,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input"}]
+1552535071764	Marionette	DEBUG	0 <- [1,6,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input","st ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552535072266	Marionette	DEBUG	0 -> [0,7,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input"}]
+1552535072268	Marionette	DEBUG	0 <- [1,7,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input","st ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552535072771	Marionette	DEBUG	0 -> [0,8,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input"}]
+1552535072773	Marionette	DEBUG	0 <- [1,8,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input","st ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552535073275	Marionette	DEBUG	0 -> [0,9,"WebDriver:FindElement",{"using":"xpath","value":"//*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input"}]
+1552535073277	Marionette	DEBUG	0 <- [1,9,{"error":"no such element","message":"Unable to locate element: //*[@id=\"mainsrp-pager\"]/div/div/div/div[2]/input","st ... entError@chrome://marionette/content/error.js:389:5\nelement.find/</<@chrome://marionette/content/element.js:339:16\n"},null]
+1552535108857	geckodriver	INFO	geckodriver 0.21.0
+1552535109153	geckodriver	INFO	Listening on 127.0.0.1:49457
+1552535112081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.CYm64w7r2B05"
+*** You are running in headless mode.
+1552535112840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552535112840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552535113053	Marionette	TRACE	Received observer notification profile-after-change
+1552535113258	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552535113311	Marionette	TRACE	Received observer notification command-line-startup
+1552535113311	Marionette	TRACE	Received observer notification nsPref:changed
+1552535113311	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552535113413	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552535116202	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552535116202	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552535116429	Marionette	TRACE	All scripts recorded.
+1552535116429	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552535116429	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552535116429	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552535116429	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552535116430	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552535116430	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552535116430	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552535116430	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552535116430	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552535116430	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552535116431	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552535116431	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552535116431	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552535116431	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552535116431	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552535116431	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552535116431	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552535116431	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552535116462	Marionette	INFO	Listening on port 49469
+1552535116462	Marionette	DEBUG	Remote service is active
+1552535116805	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49483
+1552535116806	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552535116806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552535116827	Marionette	TRACE	[6442450945] Frame script loaded
+1552535116849	Marionette	TRACE	[6442450945] Frame script registered
+1552535116851	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"7e5d2dc6-79f5-4945-9fbe-9088a561dc1c","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552535116900	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552535116906	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535118716	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535118717	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535119148	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552535120641	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552535120642	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552535120647	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552535120650	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552535123652	Marionette	DEBUG	0 -> [0,4,"WebDriver:GetPageSource",{}]
+1552535123657	Marionette	DEBUG	0 <- [1,4,null,{"value":"<html class=\"ks-gecko65 ks-gecko ks-firefox65 ks-firefox\"><head><script src=\"https://qrlogin.taobao.co ... "//g.alicdn.com/alilog/oneplus/blk.html#coid=T7wQFfZamBUCAXjMUqIw5f9D&amp;noid=\" id=\"_oid_ifr_\"></iframe></body></html>"}]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552535158468	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+_mozprofile.rvDtDQH6KFca"
+*** You are running in headless mode.
+1552535245017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552535245017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552535245137	Marionette	TRACE	Received observer notification profile-after-change
+1552535245375	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552535245449	Marionette	TRACE	Received observer notification command-line-startup
+1552535245449	Marionette	TRACE	Received observer notification nsPref:changed
+1552535245449	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552535245553	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552535247888	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552535247889	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552535248061	Marionette	TRACE	All scripts recorded.
+1552535248061	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552535248062	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552535248062	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552535248062	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552535248062	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552535248062	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552535248063	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552535248063	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552535248063	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552535248063	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552535248063	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552535248063	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552535248063	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552535248063	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552535248063	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552535248064	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552535248064	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552535248064	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552535248102	Marionette	INFO	Listening on port 49721
+1552535248102	Marionette	DEBUG	Remote service is active
+1552535248439	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49738
+1552535248440	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552535248440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552535248461	Marionette	TRACE	[6442450945] Frame script loaded
+1552535248472	Marionette	TRACE	[6442450945] Frame script registered
+1552535248474	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"4dd87d0d-58f6-43f8-a6ba-9a55ffb05d4a","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552535248518	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552535248523	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535249720	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535249720	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535250058	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552535251497	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552535251498	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552535251503	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552535251506	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552535254509	Marionette	DEBUG	0 -> [0,4,"WebDriver:GetPageSource",{}]
+1552535254514	Marionette	DEBUG	0 <- [1,4,null,{"value":"<html class=\"ks-gecko65 ks-gecko ks-firefox65 ks-firefox\"><head><script src=\"https://qrlogin.taobao.co ... "//g.alicdn.com/alilog/oneplus/blk.html#coid=0rwQFQQdPxQCAXjMUqKb7qQk&amp;noid=\" id=\"_oid_ifr_\"></iframe></body></html>"}]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552535433882	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+ed observer notification profile-after-change
+1552535283378	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552535283478	Marionette	TRACE	Received observer notification command-line-startup
+1552535283478	Marionette	TRACE	Received observer notification nsPref:changed
+1552535283478	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552535283579	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552535286161	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552535286161	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552535286409	Marionette	TRACE	All scripts recorded.
+1552535286409	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552535286409	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552535286409	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552535286409	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552535286409	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552535286409	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552535286409	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552535286410	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552535286410	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552535286410	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552535286410	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552535286410	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552535286410	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552535286410	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552535286410	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552535286410	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552535286410	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552535286411	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552535286441	Marionette	INFO	Listening on port 49840
+1552535286441	Marionette	DEBUG	Remote service is active
+1552535286795	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:49859
+1552535286796	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552535286796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552535286818	Marionette	TRACE	[6442450945] Frame script loaded
+1552535286827	Marionette	TRACE	[6442450945] Frame script registered
+1552535286828	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"a790e1cb-f456-4044-94db-14c9460c2ab0","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552535286906	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552535286912	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535288290	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535288291	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552535289038	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552535290879	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552535290880	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552535290884	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552535290918	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552535293924	Marionette	DEBUG	0 -> [0,4,"WebDriver:GetPageSource",{}]
+1552535293930	Marionette	DEBUG	0 <- [1,4,null,{"value":"<html class=\"ks-gecko65 ks-gecko ks-firefox65 ks-firefox\"><head><script src=\"https://qrlogin.taobao.co ... /g.alicdn.com/alilog/oneplus/blk.html#coid=%2BrwQFQtr23wCAXjMUqKCUw0O&amp;noid=\" id=\"_oid_ifr_\"></iframe></body></html>"}]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552535434026	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+

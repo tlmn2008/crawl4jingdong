@@ -1,0 +1,178 @@
+1551766013388	geckodriver	INFO	geckodriver 0.21.0
+1551766013552	geckodriver	INFO	Listening on 127.0.0.1:49449
+1551766016629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.eGtXCbWw10fb"
+*** You are running in headless mode.
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\tengliang\AppData\Local\openvr\openvrpaths.vrpath
+1551766019840	Marionette	INFO	Listening on port 49460
+1551766019849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 22420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1551766392067	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1551766495284	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 22420, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 22420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2571552551393910	geckodriver	INFO	geckodriver 0.21.0
+1552551394095	geckodriver	INFO	Listening on 127.0.0.1:50978
+1552551397228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "lang=zh_CN.UTF-8" "-foreground" "-no-remote" "-profile" "C:\\Users\\TENGLI~1\\AppData\\Local\\Temp\\rust_mozprofile.iJNq1NT13gS3"
+*** You are running in headless mode.
+1552551398319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552551398320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1552551398414	Marionette	TRACE	Received observer notification profile-after-change
+1552551398644	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552551398671	Marionette	TRACE	Received observer notification command-line-startup
+1552551398671	Marionette	TRACE	Received observer notification nsPref:changed
+1552551398678	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552551398778	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552551400930	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552551400930	Marionette	TRACE	GFX sanity window detected, waiting until it has been closed...
+1552551406719	Marionette	TRACE	Received observer notification domwindowclosed
+1552551406719	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552551406729	Marionette	TRACE	All scripts recorded.
+1552551406729	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552551406730	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552551406730	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552551406730	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552551406730	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552551406730	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552551406730	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552551406731	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552551406731	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552551406732	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552551406732	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552551406732	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552551406732	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552551406732	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552551406732	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552551406732	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552551406732	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552551406732	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552551406765	Marionette	INFO	Listening on port 50990
+1552551406765	Marionette	DEBUG	Remote service is active
+[Child 10404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10404, Chrome_C1552551406865	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51025
+1552551406866	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552551406866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552551406915	Marionette	TRACE	[6442450945] Frame script loaded
+1552551406922	Marionette	TRACE	[6442450945] Frame script registered
+1552551406923	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"4c952fad-6d91-423f-8634-c0bbc53aa000","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552551407006	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552551407014	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552551407730	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552551407731	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552551408022	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552551409459	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552551409460	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552551409464	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552551409467	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552551412470	Marionette	DEBUG	0 -> [0,4,"WebDriver:GetPageSource",{}]
+1552551412475	Marionette	DEBUG	0 <- [1,4,null,{"value":"<html class=\"ks-gecko65 ks-gecko ks-firefox65 ks-firefox\"><head><script src=\"https://qrlogin.taobao.co ... "//g.alicdn.com/alilog/oneplus/blk.html#coid=8PsQFbu34nUCAXjMUqJg1eT7&amp;noid=\" id=\"_oid_ifr_\"></iframe></body></html>"}]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552552082859	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+ed observer notification profile-after-change
+1552552010670	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552552010698	Marionette	TRACE	Received observer notification command-line-startup
+1552552010698	Marionette	TRACE	Received observer notification nsPref:changed
+1552552010698	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1552552010795	Marionette	TRACE	Received observer notification toplevel-window-ready
+1552552012734	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1552552012734	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1552552012825	Marionette	TRACE	All scripts recorded.
+1552552012826	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1552552012826	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1552552012826	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1552552012826	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1552552012826	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1552552012826	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1552552012826	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1552552012826	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1552552012827	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1552552012827	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1552552012827	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1552552012827	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1552552012827	Marionette	DEBUG	Setting recommended pref extensions.webservice.discoverURL to http://%(server)s/dummy/discoveryURL
+1552552012827	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1552552012827	Marionette	DEBUG	Setting recommended pref network.http.speculative-parallel-limit to 0
+1552552012827	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1552552012827	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1552552012827	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1552552012856	Marionette	INFO	Listening on port 52278
+1552552012856	Marionette	DEBUG	Remote service is active
+1552552012958	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:52292
+1552552012958	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1552552012959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552552012979	Marionette	TRACE	[6442450945] Frame script loaded
+1552552012980	Marionette	TRACE	[6442450945] Frame script registered
+1552552012981	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"e772d91e-3e29-4df9-8d03-a6fa0bfcfd3c","capabilities":{"browserName":"firefox","browserVersion":"65.0. ... alse,"moz:webdriverClick":true,"capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}}]
+1552552013026	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://s.taobao.com/search?q=python&s=0"}]
+1552552013038	Marionette	TRACE	[6442450945] Received DOM event beforeunload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552552014276	Marionette	TRACE	[6442450945] Received DOM event pagehide for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552552014276	Marionette	TRACE	[6442450945] Received DOM event unload for about:neterror?e=dnsNotFound&u=http%3A//www.lang%3Dzh_cn.utf-8/&c=UTF-8&f=regular&d=%E6%88%91%E4%BB%AC%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%87%B3%20www.lang%3Dzh_cn.utf-8%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82
+1552552014739	Marionette	TRACE	[6442450945] Received DOM event DOMContentLoaded for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.12/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.52/ns_b_63_3_n.js, line 3: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1552552016081	Marionette	TRACE	[6442450945] Received DOM event pageshow for https://login.taobao.com/member/login.jhtml?redirectURL=http%3A%2F%2Fs.taobao.com%2Fsearch%3Fq%3Dpython%26s%3D0
+1552552016082	Marionette	DEBUG	0 <- [1,2,null,{"value":null}]
+1552552016085	Marionette	DEBUG	0 -> [0,3,"WebDriver:ExecuteScript",{"args":[],"newSandbox":false,"script":"document.documentElement.scrollTop=10000","scriptTimeout":null,"specialPowers":false}]
+1552552016088	Marionette	DEBUG	0 <- [1,3,null,{"value":null}]
+1552552019091	Marionette	DEBUG	0 -> [0,4,"WebDriver:GetPageSource",{}]
+1552552019096	Marionette	DEBUG	0 <- [1,4,null,{"value":"<html class=\"ks-gecko65 ks-gecko ks-firefox65 ks-firefox\"><head><script src=\"https://qrlogin.taobao.co ... /g.alicdn.com/alilog/oneplus/blk.html#coid=T%2F4QFYBrfhECAXjMUqLoHjLs&amp;noid=\" id=\"_oid_ifr_\"></iframe></body></html>"}]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552552082925	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
